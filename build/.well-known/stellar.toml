@@ -1,14 +1,14 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDDG4ZGBNZB275ILTYXN54GIUF5GVNBKRMWKY2RQJX5RDK3SBUYCIHLV"
+"GBJNXLEVS5N5HLS7K4WUSEWV74YUSFZG2ILOTEHBEIJHWYJUDJYBJHC3"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="PornRocket"
 ORG_URL="https://www.pornrocket.org"
-ORG_DESCRIPTION="The fair launch of the PORNROCKET smart contract ensures a community driven token with generous yields, rewarding hodlers just for holding.
+ORG_DESCRIPTION="The fair launch of the PORNROCKET smart contract ensures a community driven token with generous yields, rewarding hodlers just for holding."
 With our industry disruptive tokenomics architecture, you will earn PORNROCKET passively without having to lift a finger!"
 ORG_TWITTER="@pornrocket"
 ORG_LOGO="https://i.ibb.co/QfP8qDg/image.jpg"
@@ -17,7 +17,7 @@ ORG_OFFICIAL_EMAIL="pornrocket@gmail.com"
 
 [[CURRENCIES]]
 code="PornRocket"
-issuer="GDDG4ZGBNZB275ILTYXN54GIUF5GVNBKRMWKY2RQJX5RDK3SBUYCIHLV"
+issuer="GBJNXLEVS5N5HLS7K4WUSEWV74YUSFZG2ILOTEHBEIJHWYJUDJYBJHC3"
 anchor_asset="false"
 name="Porn Rocket"
 desc="The fair launch of the PORNROCKET smart contract ensures a community driven token with generous yields, rewarding hodlers just for holding.
