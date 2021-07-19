@@ -1,29 +1,30 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GDDG4ZGBNZB275ILTYXN54GIUF5GVNBKRMWKY2RQJX5RDK3SBUYCIHLV"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="PornRocket"
+ORG_URL="https://www.pornrocket.org"
+ORG_DESCRIPTION="The fair launch of the PORNROCKET smart contract ensures a community driven token with generous yields, rewarding hodlers just for holding.
+With our industry disruptive tokenomics architecture, you will earn PORNROCKET passively without having to lift a finger!"
+ORG_TWITTER="@pornrocket"
+ORG_LOGO="https://i.ibb.co/QfP8qDg/image.jpg"
+ORG_OFFICIAL_EMAIL="pornrocket@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="PornRocket"
+issuer="GDDG4ZGBNZB275ILTYXN54GIUF5GVNBKRMWKY2RQJX5RDK3SBUYCIHLV"
 anchor_asset="false"
-name="Angry Shiba"
-desc="A Decentralized Meme Token that Evolved into a Vibrant Ecosystem
-SHIB, LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="Porn Rocket"
+desc="The fair launch of the PORNROCKET smart contract ensures a community driven token with generous yields, rewarding hodlers just for holding.
+With our industry disruptive tokenomics architecture, you will earn PORNROCKET passively without having to lift a finger!"
+conditions=""
+image="https://i.ibb.co/QfP8qDg/image.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#PornRocket was issued using the open and inclusive Stellar blockchain network.
